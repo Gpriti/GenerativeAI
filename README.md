@@ -10,7 +10,7 @@ The project is divided into 2 parts to identify the text that whether the text i
 
 2.Generative LLMs In generative part I Used "llama-2-chat-7B" and "zephyr-alpha-7B" and used multiple prompt from the paper Roy et al., 2023 and then evaluate the model performance and Compare a batch of representational and generative models.
 
-## **DATASET**
+## DATASET
 The dataset used here is Hateexplain HateXplain (Mathew et al., 2021) is a benchmark dataset specifically designed to address bias and explainability in the domain of hate speech. It provides comprehensive annotations for each post, encompassing three key perspectives: classification (hate speech, offensive, or normal), the targeted community, and the rationales- which denote the specific sections of a post that influenced the labelling decision (hate, offensive, or normal).
 
  **hate speech:** Any speech or text that attacks
